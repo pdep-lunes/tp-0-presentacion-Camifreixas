@@ -4,3 +4,9 @@ Hola, mi nombre es Camila Freixas, mi legajo es 223.318 -1, mi comida favorita s
 # Imagen
 ![Foto](ImagenCamila.jpeg) 
 
+# Datitos :)
+Ademas de Heathers otros musicales que me encantan son: "Wicked", "Legalmente Rubia" y "Mamma Mia"
+![Foto](Wicked.jpeg) 
+
+Algo que me gusta hacer ademas de teatro es juntarme con mis amigas
+![Foto](Imagenamigas.jpeg) 
